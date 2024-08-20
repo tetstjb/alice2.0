@@ -569,4 +569,4 @@ class Call(PyTgCalls):
         if config.STRING3:
             await self.three.start()
         if config.STRING4:
-            await self.four.start(
+            await self.four.start()
