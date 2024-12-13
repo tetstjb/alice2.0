@@ -42,6 +42,7 @@ pycryptodome
 pydub
 pyfiglet
 pykeyboard
+git+https://github.com/doraemon890/pyrogram
 python-dotenv
 python-telegram-bot
 python-whois
@@ -50,6 +51,7 @@ pyttsx3
 pytz
 pytube
 py-tgcalls==0.9.7
+pyyaml
 qrcode
 requests
 search_engine_parser
