@@ -50,7 +50,6 @@ pyttsx3
 pytz
 pytube
 py-tgcalls==0.9.7
-pyyaml
 qrcode
 requests
 search_engine_parser
